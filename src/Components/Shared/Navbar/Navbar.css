@@ -1,0 +1,25 @@
+.title-text {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#sidebar a.active::after {
+    transform: scale(1, 1);
+}
+
+@media screen and (min-width:960px) {
+    .nav-text::after {
+        content: '';
+        height: 2px;
+        width: 100%;
+        background: #fff;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        transform: scale(0, 1);
+        transition: transform 0.3s ease;
+    }
+
+    .nav-text:hover::after {
+        transform: scale(1, 1);
+    }
+}

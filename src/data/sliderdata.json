@@ -1,0 +1,56 @@
+{
+    "slide1": [
+        {
+            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
+            "alt": "mountain pic",
+            "des": "Mountain Tours"
+        },
+        {
+            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
+            "alt": "mountain pic",
+            "des": "Mountain Tours"
+        },
+        {
+            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
+            "alt": "mountain pic",
+            "des": "Mountain Tours"
+        },
+        {
+            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
+            "alt": "mountain pic",
+            "des": "Mountain Tours"
+        },
+        {
+            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
+            "alt": "mountain pic",
+            "des": "Mountain Tours"
+        }
+    ],
+    "slide2": [
+        {
+            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
+            "alt": "beach pic",
+            "des": "Beach Tours"
+        },
+        {
+            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
+            "alt": "beach pic",
+            "des": "Beach Tours"
+        },
+        {
+            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
+            "alt": "beach pic",
+            "des": "Beach Tours"
+        },
+        {
+            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
+            "alt": "beach pic",
+            "des": "Beach Tours"
+        },
+        {
+            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
+            "alt": "beach pic",
+            "des": "Beach Tours"
+        }
+    ]
+}

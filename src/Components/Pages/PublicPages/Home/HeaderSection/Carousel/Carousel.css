@@ -1,0 +1,38 @@
+.carousel {
+  background-color: #000;
+  width: 100%;
+  height: 100vh;
+}
+
+.carousel .slide {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel .slide-hidden {
+  display: none;
+}
+
+.carousel .indicators {
+  display: flex;
+}
+
+.carousel .indicator {
+  background-color: white;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 5px #555;
+  cursor: pointer;
+}
+
+.carousel .indicator-inactive {
+  background-color: grey;
+}
+
+.carousel .welcome-text h1 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+@media screen and (max-width: 400px) {
+  .indicator {}
+}

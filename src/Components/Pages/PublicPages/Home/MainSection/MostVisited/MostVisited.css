@@ -1,0 +1,12 @@
+.product-slider {
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    color: #fff;
+}
+
+.destination-container {
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
