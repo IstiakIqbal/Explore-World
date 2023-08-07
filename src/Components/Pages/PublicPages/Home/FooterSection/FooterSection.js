@@ -62,7 +62,7 @@ const FooterSection = () => {
                                 <h2 className="mb-2 md:mb-7 font-semibold text-white uppercase">Follow us</h2>
                                 <ul className="text-gray-400 text-sm">
                                     <li>
-                                        <a href="/" className="hover:underline">Github</a>
+                                        <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Github</a>
                                     </li>
                                     <li>
                                         <a href="/" className="hover:underline">Discord</a>

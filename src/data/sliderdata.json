@@ -1,56 +1,56 @@
 {
     "slide1": [
         {
-            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
-            "alt": "mountain pic",
-            "des": "Mountain Tours"
+            "src": "https://i.ibb.co/qBrB6fQ/beach.jpg",
+            "alt": "beach pic",
+            "des": "Beach"
         },
         {
-            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
-            "alt": "mountain pic",
-            "des": "Mountain Tours"
+            "src": "https://lavella.hellodigi.ru/img/nap8.jpg",
+            "alt": "Cruises",
+            "des": "Cruises"
         },
         {
-            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
-            "alt": "mountain pic",
-            "des": "Mountain Tours"
+            "src": "https://lavella.hellodigi.ru/img/nap7.jpg",
+            "alt": "Tours to islands",
+            "des": "Island tour"
         },
         {
-            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
-            "alt": "mountain pic",
-            "des": "Mountain Tours"
+            "src": "https://i.ibb.co/7YzxNtr/Adventure.jpg",
+            "alt": "Adventure",
+            "des": "Adventure"
         },
         {
-            "src": "https://i.ibb.co/pjMK8T8/img1.jpg",
-            "alt": "mountain pic",
-            "des": "Mountain Tours"
+            "src": "https://lavella.hellodigi.ru/img/nap1.jpg",
+            "alt": "Ski tours",
+            "des": "Ski tours"
         }
     ],
     "slide2": [
         {
-            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
-            "alt": "beach pic",
-            "des": "Beach Tours"
+            "src": "https://lavella.hellodigi.ru/img/nap8.jpg",
+            "alt": "Cruises",
+            "des": "Cruises"
         },
         {
-            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
-            "alt": "beach pic",
-            "des": "Beach Tours"
+            "src": "https://i.ibb.co/7YzxNtr/Adventure.jpg",
+            "alt": "Adventure",
+            "des": "Adventure"
         },
         {
-            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
-            "alt": "beach pic",
-            "des": "Beach Tours"
+            "src": "https://i.ibb.co/gSfKwvD/new.jpg",
+            "alt": "tour weekend",
+            "des": "Weekend"
         },
         {
-            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
-            "alt": "beach pic",
-            "des": "Beach Tours"
+            "src": "https://lavella.hellodigi.ru/img/nap3.jpg",
+            "alt": "Shop tours",
+            "des": "Shop tours"
         },
         {
-            "src": "https://i.ibb.co/gzvYRvR/img2.jpg",
-            "alt": "beach pic",
-            "des": "Beach Tours"
+            "src": "https://lavella.hellodigi.ru/img/nap7.jpg",
+            "alt": "Tours to islands",
+            "des": "Island tour"
         }
     ]
 }

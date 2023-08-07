@@ -26,7 +26,17 @@ const MvCard = ({ data }) => {
                         <p className='text-gray-200'>{data.days}</p>
                     </div>
                     <div>
-                        <button type="button" className="rounded md:rounded-lg hover:bg-transparent hover:text-[#ff7f00] text-white border-2 border-[#ff7f00] py-1 md:py-2 px-3 md:px-6 md:mt-2 text-sm font-semibold bg-[#ff7f00] ease-linear duration-150">Book Now</button>
+                        <button
+                            type="button"
+                            className="rounded md:rounded-lg hover:bg-transparent hover:text-[#ff7f00] text-white border-2 border-[#ff7f00] py-1 mt-1 px-3 md:px-6 md:mt-2 text-sm font-semibold bg-[#ff7f00] ease-linear duration-150"
+                            onClick={() => {
+                                window.confirm(
+                                    `You're booking to this tour. Are you sure you want to book this tour? Press 'OK' to confirm`
+                                );
+                            }}
+                        >
+                            Book Now
+                        </button>
                     </div>
                 </div>
                 <div className='absolute z-20 bg-[#ff8000d4] font-semibold rounded-md top-2 md:top-4 right-2 md:right-4 px-2 md:px-4 py-1 md:py-2'>
