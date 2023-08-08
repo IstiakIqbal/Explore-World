@@ -50,12 +50,12 @@ const FooterSection = () => {
                                     <li>
                                         <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Source Code</a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Dummy Link</a>
                                     </li>
                                     <li>
                                         <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Dummy Link</a>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                             <div>
@@ -68,7 +68,7 @@ const FooterSection = () => {
                                         <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Discord</a>
                                     </li>
                                     <li>
-                                        <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Source Code</a>
+                                        <a href="https://github.com/IstiakIqbal/Explore-World" className="hover:underline">Code Link</a>
                                     </li>
                                 </ul>
                             </div>
