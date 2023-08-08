@@ -3,6 +3,7 @@ import Header from './HeaderSection/Header';
 import Navbar from '../../../Shared/Navbar/Navbar';
 import MainSection from './MainSection/MainSection';
 import FooterSection from './FooterSection/FooterSection';
+import frame from './Frame/frame';
 
 const Home = () => {
     return (

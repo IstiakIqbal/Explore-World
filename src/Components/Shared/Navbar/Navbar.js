@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 const navigation = [
     { name: 'Home', href: '/' },
     { name: 'Destinations', href: '/destinations' },
-    { name: 'Blogs', href: '/blogs' },
+    { name: 'Contact Us', href: '/blogs' },
     { name: 'About', href: '/about' },
 ]
 
@@ -16,8 +16,8 @@ const Navbar = () => {
         <div className='absolute top-0 px-2 md:px-0 w-full'>
             <div className="bg-transparent relative max-w-screen-xl mx-auto z-50 flex items-center justify-between py-5">
                 <div className='md:flex justify-between md:w-1/3'>
-                    <p className="text-sm text-gray-200 hover:underline ease-linear duration-150"><a href="/" className="">+88-01866833333</a></p>
-                    <p className="text-sm text-gray-200 hover:underline ease-linear duration-150"><a href="/" className="">istiakiqbal@gmail.com</a></p>
+                    {/* <p className="text-sm text-gray-200 hover:underline ease-linear duration-150"><a href="/" className="">+88-01866833333</a></p> */}
+                    {/* <p className="text-sm text-gray-200 hover:underline ease-linear duration-150"><a href="/" className="">istiakiqbal@gmail.com</a></p> */}
                 </div>
                 <div className="md:flex hidden mb-2 md:mb-0 space-x-4 md:space-x-6 md:justify-start justify-center">
                     <a href="/" className="text-gray-100 hover:text-[#ff7f00]">

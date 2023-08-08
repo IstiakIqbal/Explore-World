@@ -6,7 +6,7 @@ import './FooterSection.css';
 const navigation = [
     { name: 'Home', href: '/' },
     { name: 'Destinations', href: '/destinations' },
-    { name: 'Blogs', href: '/blogs' },
+    { name: 'Contact Us', href: '/blogs' },
     { name: 'About', href: '/about' },
 ]
 
@@ -41,7 +41,7 @@ const FooterSection = () => {
                             <Link to="/" className="">
                                 <span className="self-center title-text text-2xl md:text-3xl font-semibold whitespace-nowrap text-[#ff7f00]">Explore World</span>
                             </Link>
-                            <p className='text-gray-300 text-sm md:w-2/3 pt-5'>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                            <p className='text-gray-300 text-sm md:w-2/3 pt-5'>Want to get refreshed with us? So what are you waiting for folks? Pack your backs and lets go for a fancy trip! </p>
                         </div>
                         <div className="md:w-1/2 mt-10 md:mt-0 grid grid-cols-2 md:grid-cols-3 gap-y-5 md:gap-0">
                             <div>
@@ -87,7 +87,7 @@ const FooterSection = () => {
                     </div>
                     <hr className="my-6 mx-auto border-gray-700 md:my-8" />
                     <div className="flex md:flex-row flex-col-reverse items-center justify-between">
-                        <p className="text-sm text-gray-500 sm:text-center dark:text-gray-400">Developed By <a href="/" className="hover:underline text-[#ff7f00]">Istiak Iqbal</a></p>
+                        <p className="text-sm text-gray-500 sm:text-center dark:text-gray-400">Developed By <a href="/" className="hover:underline text-[#ff7f00]">Group 5</a></p>
                         <p className="text-sm mb-1 md:mb-0 text-gray-500 sm:text-center dark:text-gray-400">&copy; {currentYear} <a href="/" className="hover:underline text-[#ff7f00]">Explore World™</a>. All Rights Reserved.
                         </p>
                         <div className="flex mb-2 md:mb-0 space-x-4 md:space-x-6 md:justify-start justify-center">
